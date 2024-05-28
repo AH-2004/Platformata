@@ -1,4 +1,4 @@
-name = Ahmed Shuaib - Platformata - Game Design with automata theory.pdf
+name = Ahmed Shuaib - Platformata - Game Design with automata theory
 file = main.tex
 slide = slides.md
 svgs = level_1.svg level_2.svg level_3.svg level_4.svg
