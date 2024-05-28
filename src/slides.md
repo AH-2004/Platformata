@@ -74,40 +74,6 @@ A game design for a 2D Platformer.
 
 ---
 
-# Level 1
-
-- Time: 36 seconds.
-- Introduces: Platforms, stairs, jump pads, buttons, ghost platforms.
-- Attempts (Estimate): 2
-
----
-
-# Level 2
-
-- Time: 120 seconds.
-- Features: Platforms, stairs, jump pads, buttons, ghost platforms.
-- Introduces: Ghost walls and cubes.
-- Attempts (Estimate): 2
-
----
-
-# Level 3
-
-- Time: 90 seconds
-- Features: Platforms, stairs, jump pads, buttons, ghost platforms, ghost walls, platforms.
-- Introduces: Platform walls.
-- Attempts (Estimate): 2-3
-
----
-
-# Level 4
-
-- Time: 90 seconds.
-- Features: Platforms, stairs, jump pads, buttons,ghost walls, platforms, platform walls.
-- Attempts (Estimate): 2-3
-
----
-
 # Game Design
 
 - Scalability and modularity of the game have been considered.
@@ -172,19 +138,49 @@ $\text{ND}_{\text{n}} =  (\text{h} - (\text{d} \cdot \text{A}_{\text{n}})) > 0$
 
 ---
 
-![Level 1](level_1_dark.svg)
+##  Level 1
+
+- Time: 36 seconds.
+- Introduces: Platforms, stairs, jump pads, buttons, ghost platforms.
+- Attempts (Estimate): 2
+
+![width:50%](level_1_dark.svg)
 
 ---
 
-![Level 2](level_2_dark.svg)
+##  Level 2
+
+- Time: 120 seconds.
+- Features: Platforms, stairs, jump pads, buttons, ghost platforms.
+- Introduces: Ghost walls and cubes.
+- Attempts (Estimate): 2
+
+![width:50%](level_2_dark.svg)
 
 ---
 
-![Level 3](level_3_dark.svg)
+## Level 3
+
+- Time: 90 seconds
+- Features: Platforms, stairs, jump pads, buttons, ghost platforms, ghost walls, platforms.
+- Introduces: Platform walls.
+- Attempts (Estimate): 2-3
 
 ---
 
-![Level 4](level_4_dark.svg)
+![](level_3_dark.svg)
+
+---
+
+## Level 4
+
+- Time: 90 seconds.
+- Features: Platforms, stairs, jump pads, buttons,ghost walls, platforms, platform walls.
+- Attempts (Estimate): 2-3
+
+---
+
+![](level_4_dark.svg)
 
 ---
 

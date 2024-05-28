@@ -19,7 +19,10 @@ dist:
 	cp main.pdf  "../dist/$(name).pdf"
 	cp slides.pdf  "../dist/$(name) - slides.pdf"
 	cp $(svgs) ../dist
+	tar czf ../Platformata.tar.gz ../dist/*
+	mv ../Platformata.tar.gz dist
 
 .SILENT: clean
 clean:
 	rm *.log *.aux *.pdf
+	rm -r svg-inkscape
