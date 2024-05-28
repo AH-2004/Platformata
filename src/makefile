@@ -20,7 +20,7 @@ dist:
 	cp slides.pdf  "../dist/$(name) - slides.pdf"
 	cp $(svgs) ../dist
 	tar czf ../Platformata.tar.gz ../dist/*
-	mv ../Platformata.tar.gz dist
+	mv ../Platformata.tar.gz ../dist
 
 .SILENT: clean
 clean:
