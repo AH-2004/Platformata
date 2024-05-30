@@ -1,0 +1,21 @@
+#+title: Answers
+#+author: AH
+
+* Platformata
+
+** Purpose
+   - To determine weather using methods and tools of automata is a worthwhile approach to achieve an optimized development experience for game developers.
+
+** Which systems should be designed using NFA
+   - Critical systems that cannot fail, as it can be catastrophic.
+   - In the embedded systems industy we use a term "Hard Real-Time" to define constraints for such systems.
+
+** Which systems should not be designed using NFA
+   
+** The pros and cons of designing systems using NFA
+   
+** Are you planning to publish your work in a research conference
+   
+   - No.
+   - I feel this project can use further refinement.
+   - I believe the design decisions need to be discussed further.
